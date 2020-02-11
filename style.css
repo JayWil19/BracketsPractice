@@ -6,3 +6,7 @@ body {
 p {
     font-size: 25;
 }
+
+img {
+    border: 1pt solid #707070;
+}
